@@ -1,0 +1,1400 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 17:50:09 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 31235@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 17:50:09 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 17:50:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 17:50:09 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 17:50:09 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 17:50:09 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 17:50:09 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 17:50:09 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 17:50:09 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 17:50:09 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 17:50:09 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 17:50:09 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 17:50:09 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 17:50:09 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 17:50:09 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 17:50:09 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 17:51:28 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 31246@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 17:51:28 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 17:51:28 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 17:51:28 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 17:51:28 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 17:51:28 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 17:51:28 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 17:51:28 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 17:51:28 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 17:51:28 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 17:51:28 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 17:51:28 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 17:51:28 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 17:51:28 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 17:51:28 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 17:51:28 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 17:52:15 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 31254@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 17:52:16 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 17:52:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 17:52:16 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 17:52:16 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 17:52:16 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 17:52:16 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 17:52:16 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 17:52:16 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 17:52:16 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 17:52:16 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 17:52:16 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 17:52:16 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 17:52:16 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 17:52:16 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 17:52:16 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 18:52:57 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 31399@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 18:52:57 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 18:52:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 18:52:57 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 18:52:57 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 18:52:57 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 18:52:57 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 18:52:57 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 18:52:57 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 18:52:57 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 18:52:57 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 18:52:57 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 18:52:57 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 18:52:57 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 18:52:57 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 18:52:57 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:26:08 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32532@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 21:26:08 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 21:26:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:26:08 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 21:26:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:26:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 21:26:08 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 21:26:08 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 21:26:08 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 21:26:08 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 21:26:08 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 21:26:08 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 21:26:08 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 21:26:08 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 21:26:08 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:26:08 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:31:56 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32596@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 21:31:56 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 21:31:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:31:56 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 21:31:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:31:56 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 21:31:56 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 21:31:56 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 21:31:56 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 21:31:56 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 21:31:56 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 21:31:56 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 21:31:56 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 21:31:56 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 21:31:56 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:31:56 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:36:57 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32642@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 21:36:57 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 21:36:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:36:57 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 21:36:57 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:36:57 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 21:36:57 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 21:36:57 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 21:36:57 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 21:36:57 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 21:36:57 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 21:36:57 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 21:36:57 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 21:36:57 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 21:36:57 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:36:57 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:37:46 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32648@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 21:37:46 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 21:37:46 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:37:46 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 21:37:46 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:37:46 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 21:37:46 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 21:37:46 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 21:37:46 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 21:37:46 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 21:37:46 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 21:37:46 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 21:37:46 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 21:37:46 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 21:37:46 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:37:46 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:41:56 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32727@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 21:41:56 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 21:41:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:41:56 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 21:41:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:41:56 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 21:41:56 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 21:41:56 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 21:41:56 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 21:41:56 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 21:41:56 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 21:41:56 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 21:41:56 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 21:41:56 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 21:41:56 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:41:56 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:46:53 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32774@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 21:46:53 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 21:46:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:46:53 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 21:46:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:46:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 21:46:53 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 21:46:53 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 21:46:53 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 21:46:53 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 21:46:53 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 21:46:53 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 21:46:53 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 21:46:53 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 21:46:53 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:46:53 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:49:31 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32805@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 21:49:31 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 21:49:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:49:31 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 21:49:31 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:49:31 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 21:49:31 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 21:49:31 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 21:49:31 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 21:49:31 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 21:49:31 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 21:49:31 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 21:49:31 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 21:49:31 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 21:49:31 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:49:31 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:55:35 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32856@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 21:55:35 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 21:55:35 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:55:35 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 21:55:35 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:55:35 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 21:55:35 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 21:55:35 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 21:55:35 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 21:55:35 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 21:55:35 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 21:55:35 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 21:55:35 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 21:55:35 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 21:55:35 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:55:35 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:00:07 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32887@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 22:00:08 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 22:00:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:00:08 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 22:00:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:00:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 22:00:08 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 22:00:08 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 22:00:08 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 22:00:08 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 22:00:08 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 22:00:08 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 22:00:08 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 22:00:08 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 22:00:08 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:00:08 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:01:03 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32902@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 22:01:03 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 22:01:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:01:03 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 22:01:03 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:01:03 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 22:01:03 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 22:01:03 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 22:01:03 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 22:01:03 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 22:01:03 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 22:01:03 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 22:01:03 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 22:01:03 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 22:01:03 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:01:03 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:05:29 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 32934@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 22:05:29 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 22:05:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:05:29 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 22:05:29 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:05:29 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 22:05:29 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 22:05:29 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 22:05:29 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 22:05:29 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 22:05:29 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 22:05:29 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 22:05:29 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 22:05:29 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 22:05:29 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:05:29 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:48:47 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33357@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 22:48:47 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 22:48:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:48:47 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 22:48:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:48:47 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 22:48:47 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 22:48:47 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 22:48:47 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 22:48:47 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 22:48:47 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 22:48:47 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 22:48:47 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 22:48:47 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 22:48:47 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:48:47 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:51:22 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33374@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 22:51:22 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 22:51:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:51:22 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 22:51:22 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:51:22 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 22:51:22 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 22:51:22 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 22:51:22 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 22:51:22 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 22:51:22 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 22:51:22 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 22:51:22 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 22:51:22 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 22:51:22 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:51:22 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:51:59 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33380@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 22:52:00 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 22:52:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:52:00 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 22:52:00 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:52:00 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 22:52:00 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 22:52:00 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 22:52:00 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 22:52:00 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 22:52:00 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 22:52:00 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 22:52:00 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 22:52:00 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 22:52:00 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:52:00 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:56:15 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33409@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 22:56:15 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 22:56:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:56:15 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 22:56:15 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:56:15 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 22:56:15 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 22:56:15 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 22:56:15 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 22:56:15 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 22:56:15 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 22:56:15 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 22:56:15 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 22:56:15 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 22:56:15 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:56:15 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:56:40 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33413@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 22:56:40 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 22:56:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:56:40 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 22:56:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:56:41 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 22:56:41 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 22:56:41 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 22:56:41 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 22:56:41 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 22:56:41 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 22:56:41 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 22:56:41 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 22:56:41 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 22:56:41 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:56:41 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 23:02:30 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33470@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 23:02:30 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 23:02:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 23:02:30 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 23:02:30 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 23:02:30 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 23:02:30 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 23:02:30 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 23:02:30 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 23:02:30 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 23:02:30 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 23:02:30 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 23:02:30 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 23:02:30 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 23:02:30 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 23:02:30 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 23:13:36 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33543@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 23:13:36 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 23:13:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 23:13:36 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 23:13:36 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 23:13:36 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 23:13:36 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 23:13:36 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 23:13:36 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 23:13:36 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 23:13:36 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 23:13:36 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 23:13:36 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 23:13:36 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 23:13:36 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 23:13:36 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 23:33:31 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33723@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 23:33:32 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 23:33:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 23:33:32 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 23:33:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 23:33:32 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 23:33:32 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 23:33:32 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 23:33:32 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 23:33:32 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 23:33:32 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 23:33:32 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 23:33:32 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 23:33:32 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 23:33:32 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 23:33:32 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 23:38:05 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33803@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 23:38:05 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 23:38:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 23:38:05 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 23:38:05 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 23:38:05 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 23:38:05 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 23:38:05 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 23:38:05 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 23:38:05 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 23:38:05 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 23:38:05 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 23:38:05 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 23:38:05 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 23:38:05 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 23:38:05 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 23:39:01 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33812@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 23:39:02 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 23:39:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 23:39:02 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 23:39:02 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 23:39:02 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 23:39:02 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 23:39:02 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 23:39:02 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 23:39:02 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 23:39:02 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 23:39:02 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 23:39:02 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 23:39:02 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 23:39:02 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 23:39:02 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 23:40:41 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33826@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 23:40:41 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 23:40:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 23:40:41 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 23:40:41 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 23:40:41 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 23:40:41 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 23:40:41 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 23:40:41 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 23:40:41 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 23:40:41 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 23:40:41 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 23:40:41 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 23:40:41 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 23:40:41 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 23:40:41 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 23:41:15 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33831@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 23:41:15 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 23:41:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 23:41:15 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 23:41:15 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 23:41:15 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 23:41:15 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 23:41:15 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 23:41:15 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 23:41:15 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 23:41:15 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 23:41:15 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 23:41:15 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 23:41:15 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 23:41:15 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 23:41:15 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 23:43:19 #1 store] 
+Database '/Users/ldeniz/git/BadCoders/Bets/resources/bets.temp' is opened by 33851@MacBook-Pro-de-Leroy.local
+
+[2020-03-02 23:43:20 #2 type.registry] 
+New type domain.Question
+
+[2020-03-02 23:43:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 23:43:20 #4 type.registry] 
+New type domain.Event
+
+[2020-03-02 23:43:20 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 23:43:20 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-02 23:43:20 #7 type.registry] 
+New type domain.Usuario
+
+[2020-03-02 23:43:20 #8 type.registry] 
+New type domain.Cliente
+
+[2020-03-02 23:43:20 #9 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-02 23:43:20 #10 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-03-02 23:43:20 #11 type.registry] 
+New type domain.Apuesta
+
+[2020-03-02 23:43:20 #12 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-02 23:43:20 #13 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-02 23:43:20 #14 type.registry] 
+New type domain.Admin
+
+[2020-03-02 23:43:20 #15 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 23:43:20 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

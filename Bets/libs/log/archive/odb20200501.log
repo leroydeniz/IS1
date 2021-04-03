@@ -1,0 +1,3200 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 00:33:01 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 24445@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 00:33:01 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 00:33:01 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 00:33:01 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 00:33:02 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 00:33:02 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 00:33:02 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 00:33:02 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 00:33:02 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 00:33:02 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 00:33:02 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 00:33:02 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 00:33:02 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 00:33:02 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 00:33:02 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 00:33:02 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 00:33:02 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 00:33:02 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 00:33:02 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 00:33:02 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 00:33:02 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 00:33:02 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 00:33:02 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 00:33:02 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 00:33:02 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 00:33:02 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:29:20 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25072@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:29:20 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:29:20 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:29:20 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:29:20 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:29:20 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:29:20 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:29:20 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:29:20 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:29:20 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:29:20 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:29:20 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:29:20 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:29:20 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:29:20 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:29:20 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:29:20 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:29:20 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:29:20 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:29:20 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:29:20 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:29:20 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:29:20 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:29:20 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:29:20 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:29:20 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:29:45 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25085@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:29:45 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:29:45 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:29:45 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:29:45 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:29:45 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:29:45 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:29:45 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:29:45 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:29:45 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:29:45 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:29:45 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:29:45 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:29:45 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:29:45 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:29:45 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:29:45 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:29:45 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:29:45 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:29:45 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:29:45 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:29:45 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:29:45 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:29:45 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:29:45 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:29:45 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:40:14 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25191@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:40:14 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:40:14 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:40:14 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:40:14 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:40:14 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:40:15 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:40:15 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:40:15 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:40:15 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:40:15 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:40:15 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:40:15 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:40:15 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:40:15 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:40:15 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:40:15 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:40:15 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:40:15 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:40:15 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:40:15 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:40:15 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:40:15 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:40:15 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:40:15 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:40:15 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:44:58 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25237@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:44:58 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:44:58 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:44:58 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:44:58 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:44:58 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:44:58 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:44:58 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:44:58 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:44:58 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:44:58 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:44:58 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:44:58 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:44:58 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:44:58 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:44:58 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:44:58 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:44:58 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:44:58 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:44:58 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:44:58 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:44:58 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:44:58 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:44:58 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:44:58 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:44:59 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:45:22 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25243@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:45:22 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:45:22 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:45:22 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:45:22 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:45:22 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:45:22 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:45:22 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:45:22 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:45:22 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:45:22 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:45:22 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:45:22 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:45:22 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:45:22 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:45:22 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:45:22 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:45:22 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:45:22 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:45:22 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:45:22 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:45:22 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:45:22 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:45:22 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:45:22 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:45:22 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:47:46 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25266@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:47:46 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:47:46 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:47:46 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:47:46 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:47:46 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:47:46 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:47:46 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:47:46 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:47:46 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:47:46 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:47:46 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:47:46 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:47:46 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:47:46 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:47:46 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:47:46 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:47:46 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:47:46 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:47:46 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:47:46 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:47:46 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:47:46 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:47:46 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:47:46 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:47:46 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:48:43 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25278@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:48:43 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:48:43 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:48:43 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:48:43 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:48:43 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:48:43 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:48:43 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:48:43 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:48:43 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:48:43 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:48:43 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:48:43 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:48:43 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:48:43 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:48:43 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:48:43 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:48:43 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:48:43 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:48:43 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:48:43 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:48:43 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:48:43 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:48:43 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:48:43 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:48:43 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:49:24 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25292@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:49:24 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:49:24 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:49:24 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:49:24 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:49:24 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:49:24 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:49:24 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:49:24 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:49:24 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:49:24 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:49:24 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:49:24 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:49:24 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:49:24 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:49:24 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:49:24 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:49:24 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:49:24 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:49:24 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:49:24 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:49:24 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:49:24 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:49:24 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:49:24 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:49:24 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:50:49 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25305@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:50:49 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:50:49 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:50:49 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:50:49 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:50:49 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:50:49 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:50:49 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:50:49 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:50:49 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:50:49 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:50:49 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:50:49 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:50:49 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:50:49 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:50:49 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:50:49 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:50:49 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:50:49 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:50:49 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:50:49 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:50:49 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:50:49 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:50:49 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:50:49 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:50:49 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:51:42 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25315@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:51:42 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:51:42 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:51:42 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:51:42 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:51:42 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:51:42 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:51:42 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:51:42 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:51:42 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:51:42 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:51:42 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:51:42 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:51:42 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:51:42 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:51:42 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:51:42 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:51:42 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:51:42 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:51:42 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:51:42 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:51:42 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:51:42 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:51:42 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:51:42 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:51:42 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:55:30 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25354@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:55:31 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:55:31 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:55:31 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:55:31 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:55:31 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:55:31 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:55:31 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:55:31 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:55:31 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:55:31 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:55:31 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:55:31 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:55:31 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:55:31 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:55:31 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:55:31 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:55:31 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:55:31 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:55:31 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:55:31 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:55:31 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:55:31 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:55:31 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:55:31 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:55:31 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 01:57:49 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25390@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 01:57:49 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 01:57:49 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 01:57:49 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 01:57:49 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 01:57:49 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 01:57:49 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 01:57:49 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 01:57:49 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 01:57:49 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 01:57:49 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 01:57:49 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 01:57:49 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 01:57:49 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 01:57:49 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 01:57:49 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 01:57:49 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 01:57:49 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 01:57:49 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 01:57:49 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 01:57:49 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 01:57:49 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 01:57:49 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 01:57:49 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 01:57:49 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 01:57:49 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 02:11:39 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25517@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 02:11:39 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 02:11:39 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 02:11:39 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 02:11:39 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 02:11:39 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 02:11:39 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 02:11:39 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 02:11:39 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 02:11:39 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 02:11:39 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 02:11:39 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 02:11:39 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 02:11:39 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 02:11:39 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 02:11:39 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 02:11:39 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 02:11:39 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 02:11:39 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 02:11:39 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 02:11:39 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 02:11:39 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 02:11:39 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 02:11:39 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 02:11:39 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 02:11:39 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 02:57:08 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 25916@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 02:57:08 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 02:57:08 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 02:57:08 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 02:57:08 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 02:57:08 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 02:57:08 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 02:57:08 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 02:57:08 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 02:57:08 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 02:57:08 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 02:57:08 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 02:57:08 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 02:57:08 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 02:57:08 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 02:57:08 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 02:57:08 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 02:57:08 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 02:57:08 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 02:57:08 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 02:57:08 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 02:57:08 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 02:57:08 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 02:57:08 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 02:57:08 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 02:57:08 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 03:11:29 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 26039@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 03:11:29 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 03:11:29 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 03:11:29 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 03:11:29 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 03:11:29 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 03:11:29 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 03:11:29 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 03:11:29 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 03:11:29 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 03:11:29 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 03:11:29 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 03:11:29 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 03:11:29 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 03:11:29 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 03:11:29 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 03:11:29 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 03:11:29 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 03:11:29 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 03:11:29 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 03:11:29 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 03:11:29 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 03:11:29 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 03:11:29 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 03:11:29 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 03:11:29 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 03:25:00 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 26152@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 03:25:00 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 03:25:00 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 03:25:00 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 03:25:00 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 03:25:00 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 03:25:00 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 03:25:00 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 03:25:00 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 03:25:00 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 03:25:00 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 03:25:00 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 03:25:00 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 03:25:00 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 03:25:00 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 03:25:00 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 03:25:00 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 03:25:00 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 03:25:00 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 03:25:00 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 03:25:00 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 03:25:00 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 03:25:00 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 03:25:00 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 03:25:00 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 03:25:00 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 03:26:50 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 26166@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 03:26:50 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 03:26:50 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 03:26:50 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 03:26:50 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 03:26:50 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 03:26:50 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 03:26:50 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 03:26:50 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 03:26:50 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 03:26:50 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 03:26:50 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 03:26:50 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 03:26:50 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 03:26:50 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 03:26:50 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 03:26:50 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 03:26:50 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 03:26:50 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 03:26:50 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 03:26:50 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 03:26:50 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 03:26:50 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 03:26:50 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 03:26:50 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 03:26:51 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 03:27:40 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 26173@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 03:27:40 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 03:27:40 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 03:27:40 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 03:27:40 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 03:27:40 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 03:27:40 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 03:27:40 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 03:27:40 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 03:27:40 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 03:27:40 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 03:27:40 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 03:27:40 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 03:27:40 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 03:27:40 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 03:27:40 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 03:27:40 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 03:27:40 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 03:27:40 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 03:27:40 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 03:27:40 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 03:27:40 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 03:27:40 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 03:27:40 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 03:27:40 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 03:27:40 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 15:22:34 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 27984@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 15:22:34 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 15:22:34 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 15:22:34 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 15:22:34 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 15:22:34 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 15:22:34 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 15:22:34 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 15:22:34 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 15:22:34 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 15:22:34 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 15:22:34 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 15:22:34 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 15:22:34 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 15:22:34 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 15:22:34 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 15:22:34 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 15:22:34 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 15:22:34 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 15:22:34 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 15:22:34 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 15:22:34 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 15:22:34 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 15:22:34 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 15:22:34 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 15:22:34 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 15:23:28 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28014@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 15:23:28 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 15:23:28 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 15:23:28 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 15:23:28 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 15:23:28 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 15:23:28 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 15:23:28 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 15:23:28 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 15:23:28 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 15:23:28 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 15:23:28 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 15:23:28 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 15:23:28 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 15:23:28 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 15:23:28 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 15:23:28 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 15:23:28 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 15:23:28 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 15:23:28 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 15:23:28 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 15:23:28 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 15:23:28 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 15:23:28 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 15:23:28 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 15:23:28 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 15:23:50 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28025@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 15:23:50 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 15:23:50 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 15:23:50 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 15:23:50 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 15:23:50 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 15:23:50 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 15:23:50 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 15:23:50 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 15:23:50 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 15:23:50 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 15:23:50 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 15:23:50 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 15:23:50 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 15:23:50 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 15:23:50 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 15:23:50 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 15:23:50 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 15:23:50 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 15:23:50 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 15:23:50 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 15:23:50 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 15:23:50 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 15:23:50 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 15:23:50 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 15:23:50 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 15:25:32 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28041@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 15:25:32 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 15:25:32 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 15:25:32 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 15:25:32 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 15:25:32 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 15:25:32 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 15:25:32 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 15:25:32 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 15:25:32 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 15:25:32 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 15:25:32 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 15:25:32 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 15:25:32 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 15:25:32 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 15:25:32 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 15:25:32 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 15:25:32 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 15:25:32 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 15:25:32 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 15:25:32 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 15:25:32 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 15:25:32 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 15:25:32 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 15:25:32 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 15:25:32 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 15:26:16 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28058@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 15:26:16 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 15:26:16 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 15:26:16 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 15:26:16 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 15:26:16 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 15:26:16 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 15:26:16 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 15:26:16 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 15:26:16 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 15:26:16 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 15:26:16 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 15:26:16 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 15:26:16 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 15:26:16 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 15:26:16 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 15:26:16 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 15:26:16 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 15:26:16 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 15:26:16 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 15:26:16 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 15:26:16 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 15:26:16 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 15:26:16 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 15:26:16 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 15:26:16 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 15:28:28 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28078@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 15:28:28 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 15:28:28 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 15:28:28 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 15:28:28 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 15:28:28 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 15:28:28 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 15:28:28 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 15:28:28 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 15:28:28 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 15:28:28 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 15:28:28 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 15:28:28 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 15:28:28 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 15:28:28 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 15:28:28 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 15:28:28 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 15:28:28 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 15:28:28 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 15:28:28 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 15:28:28 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 15:28:28 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 15:28:28 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 15:28:28 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 15:28:28 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 15:28:28 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 15:32:59 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28114@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 15:32:59 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 15:32:59 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 15:32:59 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 15:32:59 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 15:32:59 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 15:32:59 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 15:32:59 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 15:32:59 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 15:32:59 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 15:32:59 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 15:32:59 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 15:32:59 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 15:32:59 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 15:32:59 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 15:32:59 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 15:32:59 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 15:32:59 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 15:32:59 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 15:32:59 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 15:32:59 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 15:32:59 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 15:32:59 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 15:32:59 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 15:32:59 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 15:32:59 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 15:37:10 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28172@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 15:37:11 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 15:37:11 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 15:37:11 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 15:37:11 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 15:37:11 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 15:37:11 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 15:37:11 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 15:37:11 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 15:37:11 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 15:37:11 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 15:37:11 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 15:37:11 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 15:37:11 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 15:37:11 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 15:37:11 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 15:37:11 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 15:37:11 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 15:37:11 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 15:37:11 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 15:37:11 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 15:37:11 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 15:37:11 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 15:37:11 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 15:37:11 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 15:37:11 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 15:45:11 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28242@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 15:45:12 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 15:45:12 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 15:45:12 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 15:45:12 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 15:45:12 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 15:45:12 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 15:45:12 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 15:45:12 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 15:45:12 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 15:45:12 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 15:45:12 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 15:45:12 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 15:45:12 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 15:45:12 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 15:45:12 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 15:45:12 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 15:45:12 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 15:45:12 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 15:45:12 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 15:45:12 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 15:45:12 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 15:45:12 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 15:45:12 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 15:45:12 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 15:45:12 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 16:31:16 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28733@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 16:31:16 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 16:31:16 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 16:31:16 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 16:31:16 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 16:31:16 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 16:31:16 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 16:31:16 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 16:31:16 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 16:31:16 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 16:31:16 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 16:31:16 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 16:31:16 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 16:31:16 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 16:31:16 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 16:31:16 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 16:31:16 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 16:31:16 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 16:31:16 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 16:31:16 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 16:31:16 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 16:31:16 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 16:31:16 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 16:31:16 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 16:31:16 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 16:31:16 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 16:44:05 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28823@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 16:44:05 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 16:44:05 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 16:44:05 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 16:44:05 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 16:44:05 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 16:44:05 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 16:44:05 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 16:44:05 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 16:44:05 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 16:44:05 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 16:44:05 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 16:44:05 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 16:44:05 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 16:44:05 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 16:44:05 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 16:44:05 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 16:44:05 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 16:44:05 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 16:44:05 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 16:44:05 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 16:44:05 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 16:44:05 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 16:44:05 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 16:44:05 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 16:44:05 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 16:46:00 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28837@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 16:46:00 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 16:46:00 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 16:46:00 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 16:46:00 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 16:46:00 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 16:46:00 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 16:46:00 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 16:46:00 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 16:46:00 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 16:46:00 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 16:46:00 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 16:46:00 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 16:46:00 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 16:46:00 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 16:46:00 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 16:46:00 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 16:46:00 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 16:46:00 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 16:46:00 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 16:46:00 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 16:46:00 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 16:46:00 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 16:46:00 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 16:46:00 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 16:46:00 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 16:46:51 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28846@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 16:46:51 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 16:46:51 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 16:46:51 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 16:46:51 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 16:46:51 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 16:46:51 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 16:46:51 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 16:46:51 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 16:46:51 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 16:46:51 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 16:46:51 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 16:46:51 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 16:46:51 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 16:46:51 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 16:46:51 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 16:46:51 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 16:46:51 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 16:46:51 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 16:46:51 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 16:46:51 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 16:46:51 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 16:46:51 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 16:46:51 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 16:46:51 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 16:46:51 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 16:49:46 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28877@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 16:49:46 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 16:49:46 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 16:49:46 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 16:49:46 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 16:49:46 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 16:49:46 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 16:49:46 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 16:49:46 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 16:49:46 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 16:49:46 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 16:49:46 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 16:49:46 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 16:49:46 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 16:49:46 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 16:49:46 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 16:49:46 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 16:49:46 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 16:49:46 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 16:49:46 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 16:49:46 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 16:49:46 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 16:49:46 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 16:49:46 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 16:49:46 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 16:49:46 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 16:50:40 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28919@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 16:50:40 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 16:50:40 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 16:50:40 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 16:50:40 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 16:50:40 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 16:50:40 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 16:50:40 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 16:50:40 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 16:50:40 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 16:50:40 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 16:50:40 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 16:50:40 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 16:50:40 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 16:50:40 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 16:50:40 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 16:50:40 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 16:50:40 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 16:50:40 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 16:50:40 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 16:50:40 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 16:50:40 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 16:50:40 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 16:50:40 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 16:50:40 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 16:50:40 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 16:51:07 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28926@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 16:51:07 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 16:51:07 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 16:51:07 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 16:51:07 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 16:51:07 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 16:51:07 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 16:51:07 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 16:51:07 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 16:51:07 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 16:51:07 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 16:51:07 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 16:51:07 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 16:51:07 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 16:51:07 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 16:51:07 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 16:51:07 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 16:51:07 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 16:51:07 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 16:51:07 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 16:51:07 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 16:51:07 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 16:51:07 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 16:51:07 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 16:51:07 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 16:51:07 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 16:54:13 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 28948@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 16:54:13 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 16:54:13 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 16:54:13 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 16:54:13 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 16:54:13 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 16:54:13 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 16:54:13 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 16:54:13 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 16:54:13 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 16:54:13 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 16:54:13 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 16:54:13 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 16:54:13 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 16:54:13 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 16:54:13 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 16:54:13 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 16:54:13 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 16:54:13 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 16:54:13 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 16:54:13 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 16:54:13 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 16:54:13 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 16:54:13 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 16:54:13 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 16:54:13 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 17:55:47 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 29423@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 17:55:47 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 17:55:47 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 17:55:47 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 17:55:47 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 17:55:47 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 17:55:47 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 17:55:47 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 17:55:47 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 17:55:47 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 17:55:47 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 17:55:47 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 17:55:47 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 17:55:47 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 17:55:47 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 17:55:47 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 17:55:47 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 17:55:47 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 17:55:47 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 17:55:47 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 17:55:47 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 17:55:47 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 17:55:47 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 17:55:47 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 17:55:47 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 17:55:47 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 18:03:58 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 29484@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 18:03:58 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 18:03:58 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 18:03:58 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 18:03:58 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 18:03:58 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 18:03:58 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 18:03:58 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 18:03:58 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 18:03:58 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 18:03:58 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 18:03:58 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 18:03:58 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 18:03:58 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 18:03:58 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 18:03:58 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 18:03:58 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 18:03:58 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 18:03:58 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 18:03:58 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 18:03:58 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 18:03:58 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 18:03:58 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 18:03:58 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 18:03:58 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 18:03:58 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 18:13:42 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 29552@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 18:13:42 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 18:13:42 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 18:13:42 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 18:13:42 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 18:13:42 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 18:13:42 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 18:13:42 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 18:13:42 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 18:13:42 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 18:13:42 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 18:13:42 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 18:13:42 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 18:13:42 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 18:13:42 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 18:13:42 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 18:13:42 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 18:13:42 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 18:13:42 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 18:13:42 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 18:13:42 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 18:13:42 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 18:13:42 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 18:13:42 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 18:13:42 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 18:13:42 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-01 23:15:03 #1 store] 
+Database '/Users/ldeniz/git/Bets/resources/bets.temp' is opened by 31696@MacBook-Pro-de-Leroy.local
+
+[2020-05-01 23:15:03 #2 type.registry] 
+New type domain.Deporte
+
+[2020-05-01 23:15:03 #3 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-01 23:15:03 #4 type.registry] 
+New type domain.Event
+
+[2020-05-01 23:15:03 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-01 23:15:03 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-01 23:15:03 #7 type.registry] 
+New type domain.Question
+
+[2020-05-01 23:15:03 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-01 23:15:03 #9 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-01 23:15:03 #10 type.registry] 
+New type domain.Answer
+
+[2020-05-01 23:15:03 #11 type.registry] 
+New type java.util.Vector<domain.Answer>
+
+[2020-05-01 23:15:03 #12 type] 
+Type domain.Answer is not enhanced.
+
+[2020-05-01 23:15:03 #13 type.registry] 
+New type domain.ApuestaGlobal
+
+[2020-05-01 23:15:03 #14 type.registry] 
+New type domain.Apuesta
+
+[2020-05-01 23:15:03 #15 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-01 23:15:03 #16 type] 
+Type domain.ApuestaGlobal is not enhanced.
+
+[2020-05-01 23:15:03 #17 type.registry] 
+New type domain.Usuario
+
+[2020-05-01 23:15:03 #18 type.registry] 
+New type domain.Cliente
+
+[2020-05-01 23:15:03 #19 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-01 23:15:03 #20 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-01 23:15:03 #21 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-05-01 23:15:03 #22 type.registry] 
+New type domain.Admin
+
+[2020-05-01 23:15:03 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-01 23:15:03 #24 type.registry] 
+New type domain.CuentaGlobal
+
+[2020-05-01 23:15:03 #25 type] 
+Type domain.CuentaGlobal is not enhanced.
+
+[2020-05-01 23:15:03 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
